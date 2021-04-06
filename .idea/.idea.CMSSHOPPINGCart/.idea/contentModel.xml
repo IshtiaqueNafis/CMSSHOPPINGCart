@@ -21,6 +21,7 @@
       <e p="Models" t="Include">
         <e p="Data" t="Include">
           <e p="CmShoppingCartContext.cs" t="Include" />
+          <e p="SeedData.cs" t="Include" />
         </e>
         <e p="DomainModel" t="Include">
           <e p="Page.cs" t="Include" />

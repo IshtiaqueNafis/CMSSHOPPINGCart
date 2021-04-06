@@ -14,12 +14,11 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="519496bc-5e43-45aa-aade-85c35df79266" name="Default Changelist" comment="took out uncessary files">
-      <change afterPath="$PROJECT_DIR$/Models/DomainModel/Page.cs" afterDir="false" />
+    <list default="true" id="519496bc-5e43-45aa-aade-85c35df79266" name="Default Changelist" comment="migrations added">
+      <change afterPath="$PROJECT_DIR$/Models/Data/SeedData.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CMSSHOPPINGCart/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CMSSHOPPINGCart/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Data/CmShoppingCartContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Data/CmShoppingCartContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CMSSHOPPINGCart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CMSSHOPPINGCart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +36,17 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa25044.16740/SeedData.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/appsettings.json" />
       <option value="$PROJECT_DIR$/Models/Data/CmShoppingCartContext.cs" />
       <option value="$PROJECT_DIR$/Startup.cs" />
       <option value="$PROJECT_DIR$/Models/DomainModel/Page.cs" />
+      <option value="$PROJECT_DIR$/Models/Data/SeedData.cs" />
+      <option value="$PROJECT_DIR$/Program.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1qlzAlYEzrTpXZzV8bUTH8alBw6" />
@@ -53,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlserver" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -100,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617668823725</updated>
-      <workItem from="1617668829681" duration="4050000" />
+      <workItem from="1617668829681" duration="4948000" />
     </task>
     <task id="LOCAL-00001" summary="db">
       <created>1617674253166</created>
@@ -116,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617674404661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="migrations added">
+      <created>1617676588152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617676588152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +151,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="db" />
     <MESSAGE value="took out uncessary files" />
-    <option name="LAST_COMMIT_MESSAGE" value="took out uncessary files" />
+    <MESSAGE value="migrations added" />
+    <option name="LAST_COMMIT_MESSAGE" value="migrations added" />
   </component>
 </project>
