@@ -1,3 +1,4 @@
+using CMSSHOPPINGCart.Models.DomainModel;
 using Microsoft.EntityFrameworkCore;
 
 namespace CMSSHOPPINGCart.Models.Data
@@ -7,5 +8,7 @@ namespace CMSSHOPPINGCart.Models.Data
         public CmShoppingCartContext(DbContextOptions<CmShoppingCartContext> options) : base(options)
         {
         }
+
+        public DbSet<Page> Pages { get; set; }
     }
 }

@@ -13,9 +13,17 @@
       <e p="CMSSHOPPINGCart.csproj" t="IncludeRecursive" />
       <e p="CMSSHOPPINGCart.sln" t="IncludeFlat" />
       <e p="Controllers" t="Include" />
+      <e p="Migrations" t="Include">
+        <e p="20210406023542_inital.cs" t="Include" />
+        <e p="20210406023542_inital.Designer.cs" t="Include" />
+        <e p="CmShoppingCartContextModelSnapshot.cs" t="Include" />
+      </e>
       <e p="Models" t="Include">
         <e p="Data" t="Include">
           <e p="CmShoppingCartContext.cs" t="Include" />
+        </e>
+        <e p="DomainModel" t="Include">
+          <e p="Page.cs" t="Include" />
         </e>
         <e p="InfraStrcuture" t="Include" />
       </e>
